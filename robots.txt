@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hnxyjxk.github.io/jichou-beidanci/sitemap.xml
